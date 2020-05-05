@@ -9,7 +9,7 @@ var backgroundImg,platform;
 var bird, slingshot;
 
 var gameState = "onSling";
-var bg = "bg4.png";
+var bg = "bg.png";
 var score = 0;
 
 function preload() {
